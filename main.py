@@ -14,4 +14,26 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-dvsdfsfsdf
+dvsdfsfsdffawe
+f
+qw
+fwe
+forqwe
+f
+qf
+
+wef
+wq
+efwq
+efwqef
+qw
+feqw
+fe
+wqf
+234
+2
+34
+234
+
+23
+4
